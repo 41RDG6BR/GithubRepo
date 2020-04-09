@@ -13,5 +13,12 @@ ok , vamos lá!
 Beleza, considerando que voce esta no arquivo de branch!
 Parabens, voce passou.
 
+4.editar o diretorio clone(git worktree)
+Por estar editanto no clone voce pode estar certo,
+Pode ser que este contexto configure/caracterize o conceito de "clone" e não work tree.
+Estude mais, porem voce passou!
+Vá para o pull!
+
+
 
 
