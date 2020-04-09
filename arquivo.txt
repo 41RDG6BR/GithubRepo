@@ -1,4 +1,4 @@
-Cuidado este exercicio esta sendo criado por mim! 
+Cuidado este exercicio esta sendo criado por eu mesmo! 
 
 Hoje o exercicio git será criar repo, adicionar o primeiro commit, 
 criar uma branch do arquivo, clonar o diretorio , editar o diretorio clone(git worktree), 
@@ -20,5 +20,5 @@ Estude mais, porem voce passou!
 Vá para o pull!
 
 
-
+Parabens, pare descance .Nos vemos mais tarte!
 
