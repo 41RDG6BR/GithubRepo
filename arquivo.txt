@@ -16,6 +16,7 @@ Parabens, voce passou.
 4.editar o diretorio clone(git worktree)
 Por estar editanto no clone voce pode estar certo,
 Pode ser que este contexto configure/caracterize o conceito de "clone" e não work tree.
+obs: Na realidade foi uma cópia completa do diretório
 Estude mais, porem voce passou!
 Vá para o pull!
 
