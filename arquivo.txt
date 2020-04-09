@@ -1,7 +1,7 @@
 Cuidado este exercicio esta sendo criado por mim! 
 
 Hoje o exercicio git será criar repo, adicionar o primeiro commit, 
-criar uma branch do arquivo, clonar o diretorio , editar o diretorio clone, 
+criar uma branch do arquivo, clonar o diretorio , editar o diretorio clone(git worktree), 
 dar um pull no diretorio de origem do clone e descobrir o que acontece
 ok , vamos lá!
 1. criar repo
