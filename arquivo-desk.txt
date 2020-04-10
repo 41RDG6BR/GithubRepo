@@ -1,0 +1,2 @@
+Use o comando push --force para forçar o push sobre o commit antigo.
+git push --force example-branch
